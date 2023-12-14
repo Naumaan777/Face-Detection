@@ -1,4 +1,7 @@
 # Face-Detection
+
+![img](https://github.com/Naumaan777/Face-Detection/assets/115418662/bd2407e3-5f41-4af3-a5b9-cc2bcfc4183f)
+
 A face detection is use for AI so detect for mood expressing on human behavior like a happy, sad, mood off, Angry, cry &amp; etc. After a face has been detected, the next step could be to recognize who the face belongs to. simply fetch in database when human name is exist so suggest it.
 
 
